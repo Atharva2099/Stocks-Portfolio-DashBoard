@@ -1,2 +1,2 @@
-# AutoMobile-Stocks
-Top 4 Automobile Stocks in India
+# Stock Price DashBoard BSE/NSE
+
